@@ -1,7 +1,7 @@
 # swing dialog
 
 How to coding in java
-visit Ra BVen youtube : https://www.youtube.com/c/HelloWorld-Raven/featured
+visit Ra Ven youtube : https://www.youtube.com/c/HelloWorld-Raven/featured
 
 This repo has been adapted for my project. 
 Thanks to Ra Ven for sharing his knowledge.
